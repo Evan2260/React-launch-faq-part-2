@@ -1,0 +1,13 @@
+---
+title: "Launch Academy FAQ Part 2 with useState"
+type: "challenge"
+description: "Render a FAQ accordion using React"
+tags: "javascript, react, stateful components"
+behaviors:
+  - react_on_node
+  - react_router
+  - react_testing
+  - sinatra
+ignore:
+- "node_modules/"
+- "launch-academy-faq-part-2-usestate.md"

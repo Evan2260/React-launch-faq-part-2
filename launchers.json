@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Janie Bigglseworth",
+    "bio": "Janie always wanted to be a web developer. Her first words words were 'have you checked stack-overflow?', and she learned to type when she is 9 months old."
+  },
+  {
+    "id": 2,
+    "name": "Jeffrey Crinoun",
+    "bio": "Jeffrey's last name is an anagram for a creature that you should never eat or consume, unless you wish to be cursed with a half-life. He likes the front-end."
+  },
+  {
+    "id": 3,
+    "name": "Reginald Boggersnotch",
+    "bio": "Nobody really knows much about Mr. Boggersnotch. But everyone agrees that his last name is abosultely fantastic, and he should be enrolled in the program posthaste."
+  },
+  {
+    "id": 4,
+    "name": "Amelia Wimblebottom",
+    "bio": "Amelia is very strange. She says she can see the world through code. She also mentioned that your security questions are too easy to figure out and that you should always sanitize your database inputs."
+  }
+]
